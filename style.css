@@ -40,11 +40,12 @@ nav {
 .nav-links a{
     color: #fff;
     text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
     font-size:22px ;
 }
 
 .nav-links a:hover{
-    color: #ff6347;
+    color: #ba58a3;
 }
 
 #profile{
@@ -64,7 +65,7 @@ nav {
 }
 
 button{
-    background-color:#ff4500;
+    background-color:#c42bad;
     color: white;
     border: none;
     padding:0.7rem 1.5rem;
@@ -73,7 +74,7 @@ button{
 }
 
 button:hover{
-    background-color:#8d2500;
+    background-color:#510f3d;
 }
 
 #education{
@@ -85,7 +86,7 @@ button:hover{
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #333;  
+    color: #0c5578;  
 }
 
 .education-card{
@@ -137,13 +138,13 @@ button:hover{
 .contact-card h2{
     font-size: 36px;
     margin-bottom: 20px;
-    color: #333;
+    color: #0c5578;
 }
 
 .contact-card p{
     font-size: 18px;
     margin-bottom: 20px;
-    color: #333;
+    color: #4c0761;
 }
 
 .form-group{
@@ -156,7 +157,7 @@ button:hover{
    display: block;
    margin-bottom: 5px; 
    font-size: 16px;
-   color: #333;
+   color: #c531af;
 }
 
 .form-group input,
@@ -190,7 +191,7 @@ background-color: #f9f9f9;
     margin: 20px;
     overflow: hidden;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px rgba(55, 10, 45);
 }
 
 .project-image{
@@ -217,7 +218,7 @@ background-color: #f9f9f9;
 .project-description h3{
     margin: 0;
     font-size: 1.5rem;
-    color: #ffdd77;
+    color: #ecebed;
 }
 .project-description p{
     margin: 10px 0;
@@ -233,7 +234,7 @@ background-color: #f9f9f9;
 .view-botton{
     text-decoration: none;
     color: #fff;
-    background-color: #ff704d;
+    background-color: #911a77;
     padding: 10px 20px;
     transition: background-color 0.3s ease;
 }

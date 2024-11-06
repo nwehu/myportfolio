@@ -90,8 +90,26 @@ button:hover{
 }
 
 .education-card{
-    background-color:#fff;
+    background-color:#f2eef0;
+    border: 2px solid rgb(233, 239, 246);
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
 }
+.education-card h3{
+    font-size: 1,8rem;
+    color: #073661;
+}
+.education-card p{
+    font-size: 1.4rem;
+    color: #510f3d;
+    margin: 5px 0;
+}
+.education-card strong{
+    color: #151515;
+}
+
 /* skill section */
 .skills {
     max-width: 68.75rem;
